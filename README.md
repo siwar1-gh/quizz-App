@@ -23,6 +23,3 @@ Open Trivia Database: https://opentdb.com/
 Redux: https://redux.js.org/
 React Router Dom: https://reactrouter.com/web/guides/quick-start
 
-### Video Tutorial
-
-You can see my youtube video for this project in [here](https://youtu.be/6LROvk5d8H8)
